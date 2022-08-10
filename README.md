@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Eu, atualmente, estou estudando Desenvolvimento Back-End na {Reprograma}.
+- 🌱 Sou Desenvolvedora Back-End formada pela {Reprograma}.
 - 😄 Pronouns: ela/dela
 
 <div align="center">
